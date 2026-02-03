@@ -2,7 +2,8 @@
 #include "utxo_manager.h"
 #include "mempool.h"
 #include "miner.h"
-#include "tests.h"
+#include "validator.h"
+#include "../tests/tests.h"
 using namespace std;
 
 string generateTxID() {

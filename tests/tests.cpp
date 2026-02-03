@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
-#include "tests.h"
+#include "../src/utxo_manager.h"
+#include "../src/mempool.h"
+#include "../src/miner.h"
+#include "../src/validator.h"
 using namespace std;
 
 static UTXOManager utxo;
