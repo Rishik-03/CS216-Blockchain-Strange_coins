@@ -1,0 +1,2 @@
+No external dependencies required.
+Compiler: g++ (GNU++17)
