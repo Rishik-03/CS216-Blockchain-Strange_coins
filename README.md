@@ -1,5 +1,12 @@
 # CS216 – Blockchain Simulation Assignment (UTXO Model)
 
+Team name - "Strange coins"
+Team members:
+1)CharanKumar   - 240001057
+2)Shiv pratap   - 240001069
+3)Rishik        - 240003027
+4)Aravind Nayak - 240003082
+
 ## Overview
 This project is a simplified blockchain simulation implemented in **C++** using the **UTXO (Unspent Transaction Output)** model.  
 It demonstrates how transactions are created, validated, stored in a mempool, mined into blocks, and how balances are updated securely.
